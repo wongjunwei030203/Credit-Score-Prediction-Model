@@ -1,8 +1,8 @@
 # Credit Score Prediction Model
 
-## Project Overview
+## Overview of this project
 
-This project aims to utilize data science techniques to analyze and visualize banking and credit-related data, ultimately building a machine learning model that can classify individuals into credit score ranges. The intelligent system developed through this project will automate the credit scoring process, reducing manual labor and providing a more accurate and efficient way to determine credit scores.
+This project aims to utilize data science techniques to analyze and visualize banking and credit-related data, building an ML model that can classify individuals into credit score ranges. The intelligent system developed through this project will automate the credit scoring process, reducing manual labor and providing a more accurate and efficient way to determine credit scores.
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ This project demonstrates the effectiveness of using machine learning to predict
 
 ## Future Work
 
-Future enhancements to this project could include:
+Future improvements to this project could include:
 
 - Incorporating additional data sources to improve model accuracy.
 - Exploring other machine learning algorithms for better performance.
