@@ -12,7 +12,7 @@ This project aims to utilize data science techniques to analyze and visualize ba
 4. [Model Training and Hyperparameter Tuning](#model-training-and-hyperparameter-tuning)
 5. [Model Evaluation](#model-evaluation)
 6. [Conclusion](#conclusion)
-7. [Future Work](#future-work)
+7. [Potential Improvements](#potential-improvements)
 
 ## Introduction
 
@@ -52,7 +52,7 @@ The model's performance is evaluated using several metrics, including:
 
 This project demonstrates the effectiveness of using machine learning to predict credit scores. The automated system developed here provides a more accurate and efficient way to determine credit scores, reducing the need for manual data analysis. This can significantly benefit financial institutions by improving their decision-making processes and reducing operational costs.
 
-## Future Work
+## Potential Improvements
 
 Future improvements to this project could include:
 
