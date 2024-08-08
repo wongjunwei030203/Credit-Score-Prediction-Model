@@ -4,16 +4,6 @@
 
 This project aims to utilize data science techniques to analyze and visualize banking and credit-related data, building an ML model that can classify individuals into credit score ranges. The intelligent system developed through this project will automate the credit scoring process, reducing manual labor and providing a more accurate and efficient way to determine credit scores.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Methodology](#methodology)
-3. [Feature Selection](#feature-selection)
-4. [Model Training and Hyperparameter Tuning](#model-training-and-hyperparameter-tuning)
-5. [Model Evaluation](#model-evaluation)
-6. [Conclusion](#conclusion)
-7. [Potential Improvements](#potential-improvements)
-
 ## Introduction
 
 The accurate prediction of credit scores is crucial for financial institutions to assess the creditworthiness of individuals. Traditional methods often involve manual processing of large datasets, which is both time-consuming and prone to errors. This project leverages machine learning to automate the credit scoring process, improving accuracy and efficiency.
